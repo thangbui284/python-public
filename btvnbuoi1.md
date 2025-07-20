@@ -56,3 +56,4 @@ while (biểu thức):
 Cú pháp
 for biến lặp in tập hợp:
     các câu lệnh
+    hi hello
